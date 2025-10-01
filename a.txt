@@ -1,7 +1,3 @@
 issue11
 abcdefg
-adasd
-213123
-test!!!
-ewqeqwe
-ddddd
+aaa
